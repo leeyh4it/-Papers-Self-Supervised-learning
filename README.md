@@ -1,6 +1,5 @@
 # -Papers-Self-Supervised-learning
 Papers regarding self-supervised learning, especially with medical imaging (possibly)
- - will continue to update!
 
 High-Quality Self-Supervised Deep Image Denoising 
 *Samuli Laine
@@ -23,3 +22,7 @@ Denoising with Deep Neural Networks
 Dufan Wu, Hui Ren, and Quanzheng Li
  
 Consensus Neural Network for Medical Imaging Denoising with Only Noisy Training Samples. Wu, D., Gong, K., Kim, K. and Li, Q., 2019. arXiv preprint arXiv:1906.03639. https://arxiv.org/pdf/1906.03639.pdf
+
+Noise2Noise: Learning Image Restoration without Clean Data
+Jaakko Lehtinen1 2 Jacob Munkberg1 Jon Hasselgren1 Samuli Laine1 Tero Karras1 Miika Aittala3 Timo Aila1
+https://arxiv.org/pdf/1803.04189.pdf
