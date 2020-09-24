@@ -1,4 +1,4 @@
-# -Papers-Self-Supervised-learning
+# -Papers-Self-Supervised-learning for Denoising
 Papers regarding self-supervised learning, especially with medical imaging (possibly)
 
 High-Quality Self-Supervised Deep Image Denoising 
